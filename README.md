@@ -119,5 +119,5 @@ Melodify는 사용자가 이미지를 업로드하면 해당 이미지의 분위
 ---
 
 ### 문의
-궁금한 사항은 이메일로 연락해주세요: [jhs789654123@gmail.com](팀장)
-                                  [kwonhc226@gmail.com](ML)
+궁금한 사항은 이메일로 연락해주세요: [jhs789654123@gmail.com]{팀장}
+                                  [kwonhc226@gmail.com]{ML}
